@@ -8,6 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kursanovbael@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kursanovbael)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFB81C?style=for-the-badge&logo=star&logoColor=white)](https://physiolearning.courses/)
+[![Open for Internship](https://img.shields.io/badge/Open%20for%20Internship%202027-4CAF50?style=for-the-badge&logo=briefcase&logoColor=white)](#-lets-connect)
 
 </div>
 
